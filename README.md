@@ -1,8 +1,8 @@
-# GoldenCross
+# GoldenCross 黃金交叉
 
 台指期均線交叉策略與損益計算
 
-簡介
+#策略內容
 
 這個專案包含兩個 Jupyter Notebook 文件，專注於台灣指數期貨的交易策略回測與損益計算：
 
